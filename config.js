@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Umar.
+   * Contact Me on wa.me/923165123719
+   * Follow https://github.com/umardevil
 */
 
 const fs = require('fs')
@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288292024190','62882920241909','62882920241908','6281382420312']
-global.packname = 'Hisoka Morrow'
+global.owner = ['923165123719','923165123719','4917396999993','919597477490']
+global.packname = 'Umar Devil'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.sessionName = 'hisoka'
+global.sessionName = 'hisoka.json'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -31,7 +31,7 @@ global.mess = {
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    bot: 'Fitur Khusus Pengguna Umar Bot',
     wait: 'Loading...',
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
